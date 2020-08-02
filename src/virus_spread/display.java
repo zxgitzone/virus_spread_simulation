@@ -1,15 +1,7 @@
 package virus_spread;
 
 import javax.swing.*;
-
-//import transmission_of_virus.main.MyThread;
-
 import java.awt.*;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
